@@ -1,0 +1,10 @@
+@import '../../styles/colors.scss';
+@import '../../styles/fonts.scss';
+
+.input {
+  width: 100%;
+  padding: .5rem .35rem;
+  font-family: $ralleway;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+}

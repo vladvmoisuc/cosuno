@@ -1,0 +1,32 @@
+@import '../../styles/colors.scss';
+@import '../../styles/fonts.scss';
+
+.filters {
+  display: flex;
+  font-family: $ralleway;
+  font-size: 1rem;
+  align-items: center;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+
+  &_category {
+    font-weight: 700;
+  }
+
+  &_checkbox {
+    padding: .25rem 1rem;
+    margin: 0.25rem;
+    cursor: pointer;
+    border: 1px solid $blue;
+    border-radius: .25rem;
+
+    &__checked {
+      background: $blue;
+      color: white;
+    }
+
+    input {
+      display: none;
+    }
+  }
+}

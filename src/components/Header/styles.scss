@@ -1,0 +1,46 @@
+@import '../../styles/colors.scss';
+@import '../../styles/fonts.scss';
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  align-items: center;
+
+  &_menu {
+    list-style-type: none;
+  }
+
+  &_link {
+    display: inline-block;
+    font-family: $ralleway;
+    font-size: 1.2rem;
+    font-weight: 700;
+    transition: 0.2s linear all;
+
+    a {
+      color: $black;
+      display: inline-block;
+      text-decoration: none;
+      padding: 1rem;
+    }
+
+    &:hover {
+      background: $black;
+      cursor: pointer;
+
+      a {
+        color: white;
+      }
+    }
+
+    &__active {
+      // Not ideal, but works for the moment
+      color: $blue !important;
+    }
+  }
+
+  &_logo {
+    width: 8rem;
+  }
+}

@@ -1,0 +1,34 @@
+.container {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 1rem 4rem;
+  width: 60%;
+
+  .paragraph {
+    font-family: $ralleway;
+  }
+
+  .button {
+    padding: 1rem 2rem;
+    background: $blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: .5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    font-weight: 700;
+
+    &__text-only {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+  }
+
+
+  @media screen and (max-width: 800px) {
+    padding: 4rem 0;
+    width: 80%;
+  }
+}

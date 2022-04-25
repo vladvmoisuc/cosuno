@@ -1,0 +1,9 @@
+@import '../../styles/colors.scss';
+@import '../../styles/fonts.scss';
+
+.heading {
+  color: $black;
+  display: block;
+  font-family: $merriweather;
+  font-size: 1.5rem;
+}

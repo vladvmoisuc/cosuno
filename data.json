@@ -1,0 +1,800 @@
+[
+  {
+    "name": "Fringilla Est Inc.",
+    "city": "Motala",
+    "specialities": ["Engineering firm", "Construction management company"],
+    "id": "2E14ABDE-ECC4-1926-54BA-97C0B5F14AC1",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Euismod Mauris Consulting",
+    "city": "Newmarket",
+    "specialities": ["Equipment lessor", "Engineering firm"],
+    "id": "B8A7B342-508E-1D79-DB82-4A14B8943C82",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Donec Elementum Limited",
+    "city": "Burhaniye",
+    "specialities": ["Material supplier", "General contractor"],
+    "id": "45DCC272-4DA6-5352-68AA-5C213DD7FAC9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Erat Vivamus Limited",
+    "city": "Tambov",
+    "specialities": [
+      "Restoration contractor",
+      "Equipment lessor",
+      "Subcontractor"
+    ],
+    "id": "272525C9-8AE5-427A-5B96-3B2A4ABE7C4F",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Augue Ut Lacus PC",
+    "city": "Gaziantep",
+    "specialities": ["Architecture firm", "Material supplier"],
+    "id": "1405D2B8-AE24-158D-7F3B-6980374C1E1B",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "In Consectetuer Inc.",
+    "city": "Apartadó",
+    "specialities": [
+      "Architecture firm",
+      "Real estate developer",
+      "Subcontractor"
+    ],
+    "id": "A115FA50-2413-71D8-9535-6432359EDBA9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Dolor Dapibus Gravida Company",
+    "city": "Henan",
+    "specialities": ["Subcontractor"],
+    "id": "2182314D-1E84-7947-55AA-2D96831AE871",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Felis Adipiscing Associates",
+    "city": "Bergama",
+    "specialities": ["General contractor", "Equipment lessor"],
+    "id": "5FE75F18-B361-3BA7-8512-F79A401C53A9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Consectetuer Adipiscing Associates",
+    "city": "Salzburg",
+    "specialities": ["Restoration contractor", "General contractor"],
+    "id": "039CF34B-8A03-B887-8324-989A99389F99",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Arcu Imperdiet Incorporated",
+    "city": "Drammen",
+    "specialities": [
+      "Construction management company",
+      "Restoration contractor"
+    ],
+    "id": "5B222E37-852B-32D9-2AA2-26DC834A90BD",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Id Libero Associates",
+    "city": "Batac",
+    "specialities": [
+      "Real estate developer",
+      "Construction management company"
+    ],
+    "id": "C83BC547-46E7-A0A5-5387-42B1361B9B3F",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nonummy Fusce Foundation",
+    "city": "Thanh Hóa",
+    "specialities": ["General contractor", "Architecture firm"],
+    "id": "BBD62C30-9419-4613-9B2D-BC97E24EA8C4",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Mus Aenean Industries",
+    "city": "North Jakarta",
+    "specialities": ["Real estate developer", "Engineering firm"],
+    "id": "47CF2083-AD90-BA3A-CD95-93BC2A5A9C23",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Rutrum Magna Limited",
+    "city": "Christchurch",
+    "specialities": ["Real estate developer", "Renovation contractors"],
+    "id": "F7E4EBD4-DA5E-9CCB-E15F-2B0D2818ECAD",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Egestas A Institute",
+    "city": "Paris",
+    "specialities": ["Equipment lessor"],
+    "id": "D249CA41-C5EC-68B3-2A26-628A9871BE3A",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Elit Corp.",
+    "city": "Quillota",
+    "specialities": [
+      "Renovation contractors",
+      "Construction management company"
+    ],
+    "id": "09C1CB44-7E53-88AE-B565-E8E5167C5422",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Erat Eget Institute",
+    "city": "Watson Lake",
+    "specialities": ["Renovation contractors"],
+    "id": "05EFC43B-CB9C-92AC-667F-4975B6D03F85",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Morbi Neque Tellus Inc.",
+    "city": "Opole",
+    "specialities": ["Construction management company", "Subcontractor"],
+    "id": "AA893DEA-D428-B088-4445-9F63637DA663",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vulputate Corp.",
+    "city": "San Pedro",
+    "specialities": ["General contractor"],
+    "id": "46957A49-57BD-7224-9371-9F19DEC8052D",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Blandit Mattis Corporation",
+    "city": "Borgomasino",
+    "specialities": ["Material supplier", "Real estate developer"],
+    "id": "A89969B5-E374-40DA-EE4B-E42AD5104601",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ornare Foundation",
+    "city": "St. Veit an der Glan",
+    "specialities": ["General contractor", "Engineering firm"],
+    "id": "A02BCB16-97F7-1018-97EA-513897A05718",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Dolor Egestas LLC",
+    "city": "Guangdong",
+    "specialities": ["Equipment lessor", "General contractor"],
+    "id": "B5FE1281-23F3-978D-88EE-485675C278C1",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Lectus Quis Corporation",
+    "city": "Jecheon",
+    "specialities": ["Renovation contractors"],
+    "id": "7ADE410C-8AA0-74B8-57C8-BC6962C29B48",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vel Pede Corporation",
+    "city": "Orlando",
+    "specialities": [
+      "Renovation contractors",
+      "Engineering firm",
+      "Architecture firm"
+    ],
+    "id": "B1E426E4-3C57-BAA5-B372-30EE0BAAE5EB",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Augue Ac Ipsum Incorporated",
+    "city": "Bukit Merah",
+    "specialities": ["Construction management company", "General contractor"],
+    "id": "FB828C95-B660-0C31-45ED-DC762117F28F",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Est Ac Mattis Associates",
+    "city": "Lebowakgomo",
+    "specialities": ["General contractor", "Renovation contractors"],
+    "id": "EBD8E1DD-588B-1E6C-43D8-0166ED6EEE01",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vel Incorporated",
+    "city": "Gouda",
+    "specialities": [
+      "Restoration contractor",
+      "Construction management company"
+    ],
+    "id": "8BF1E585-BBEC-9C3E-95BD-1FA17E89CB1D",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Aliquet Sem Ltd",
+    "city": "Poznań",
+    "specialities": [
+      "Material supplier",
+      "Equipment lessor",
+      "Construction management company"
+    ],
+    "id": "592E5C98-949D-8BCD-3147-8C5B8C1D5705",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ut Lacus Corporation",
+    "city": "Oyo",
+    "specialities": ["Restoration contractor"],
+    "id": "71AE6E72-4EB7-189B-65BA-41C2378966C9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Et Foundation",
+    "city": "Jilin",
+    "specialities": [
+      "Construction management company",
+      "Restoration contractor",
+      "Real estate developer"
+    ],
+    "id": "6E9E4EF6-1AE5-162D-163B-A1E83AC6F5FE",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nisi Aenean Eget Limited",
+    "city": "Palangka Raya",
+    "specialities": ["Equipment lessor", "General contractor"],
+    "id": "605FF385-E459-A7C0-69C8-692E589CA8DE",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vivamus Non Corp.",
+    "city": "Puerto Nariño",
+    "specialities": ["Engineering firm", "Equipment lessor"],
+    "id": "C3179369-495C-4CCE-5D54-0AE91CD39554",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "At Velit PC",
+    "city": "Ulm",
+    "specialities": ["Renovation contractors", "Restoration contractor"],
+    "id": "35CCCD7D-D0F9-AE81-7CBA-916296F08E74",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Porttitor Interdum Sed Industries",
+    "city": "Davenport",
+    "specialities": ["General contractor", "Engineering firm"],
+    "id": "132B24E7-EE37-D6C6-B42C-5E8422242842",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Praesent Eu Associates",
+    "city": "Kristiansund",
+    "specialities": ["Engineering firm"],
+    "id": "5376D468-5271-1D65-2EAE-72621F04C396",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ac Ipsum LLP",
+    "city": "Tranås",
+    "specialities": ["Construction management company", "Architecture firm"],
+    "id": "8309C75A-192B-B8CC-A646-CBEA47E58EBB",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Purus Ac Tellus Institute",
+    "city": "Poitiers",
+    "specialities": ["Engineering firm", "Architecture firm"],
+    "id": "CA99A43F-B5EE-2496-AD7F-EC8248AC5967",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nibh Dolor Foundation",
+    "city": "Belfast",
+    "specialities": ["Real estate developer"],
+    "id": "D86DD703-B6BF-9396-F4FE-1EC04DE41CBD",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Dolor Elit Foundation",
+    "city": "Woodlands",
+    "specialities": ["Equipment lessor"],
+    "id": "A4D93BAB-3E2D-E56A-2C2B-56C88EDB05AF",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sem Ut Ltd",
+    "city": "Istanbul",
+    "specialities": ["Material supplier", "Subcontractor"],
+    "id": "41CDB05C-9770-A3CC-ECE2-87EFE4A1CCCD",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Semper Pretium Foundation",
+    "city": "Gwangyang",
+    "specialities": ["Construction management company", "General contractor"],
+    "id": "A527E643-62D4-B314-65E8-75A5376FC234",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nisi Magna Sed PC",
+    "city": "Gia Nghĩa",
+    "specialities": [
+      "Real estate developer",
+      "Architecture firm",
+      "Restoration contractor"
+    ],
+    "id": "391AE0EE-B1BB-1CA9-19C4-1B42E1F1B525",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Convallis Dolor Quisque Consulting",
+    "city": "Kohistan",
+    "specialities": ["Equipment lessor", "Restoration contractor"],
+    "id": "D69BAB13-4DC7-2E17-3D38-E130A3A1C72B",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Eu Sem LLC",
+    "city": "Bornival",
+    "specialities": [
+      "Architecture firm",
+      "Material supplier",
+      "Construction management company"
+    ],
+    "id": "8872769E-813E-693C-EEB5-BD8E6450CCAB",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nisl Elementum PC",
+    "city": "Okene",
+    "specialities": [
+      "Restoration contractor",
+      "Subcontractor",
+      "Equipment lessor"
+    ],
+    "id": "7726ECAE-A7BA-490D-2778-912C92A79868",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ante Dictum Consulting",
+    "city": "Alajuela",
+    "specialities": ["Engineering firm"],
+    "id": "3AA8E935-3789-36B9-49E6-938D0A434CDF",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Faucibus Orci Incorporated",
+    "city": "Guarulhos",
+    "specialities": [
+      "Construction management company",
+      "Renovation contractors",
+      "Real estate developer"
+    ],
+    "id": "BE6B76CB-B0E7-5A6C-E32A-8FB1F16D62B8",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Et Associates",
+    "city": "River Valley",
+    "specialities": [
+      "Restoration contractor",
+      "General contractor",
+      "Subcontractor"
+    ],
+    "id": "B7B8736B-8FA8-2A46-8956-D93D3DC26BCF",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Amet Institute",
+    "city": "Cartagena",
+    "specialities": ["Architecture firm"],
+    "id": "2E813D7D-C52B-BDCA-A49E-67A82277613C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ligula Incorporated",
+    "city": "Surabaya",
+    "specialities": ["General contractor"],
+    "id": "D2E9E6D5-C4BE-0696-6D71-28E76CA465B9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Eget Volutpat Incorporated",
+    "city": "Iksan",
+    "specialities": [
+      "Architecture firm",
+      "Engineering firm",
+      "Construction management company"
+    ],
+    "id": "D34485DB-5781-4AFE-BEC7-0F03BD595DA9",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ligula Aliquam Erat Limited",
+    "city": "Iriga",
+    "specialities": ["Material supplier", "Construction management company"],
+    "id": "A6160461-3C49-C09E-1C4C-5360A462259E",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Eu Ligula Aenean Foundation",
+    "city": "Calapan",
+    "specialities": ["Equipment lessor", "Renovation contractors"],
+    "id": "E7B983C4-930E-B1A5-F4A2-BD33E6AAD41D",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Convallis Convallis Company",
+    "city": "Hunan",
+    "specialities": ["Material supplier"],
+    "id": "0616EB25-B352-EB35-BF18-C56A042E9A5C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Magna Praesent Limited",
+    "city": "Salamanca",
+    "specialities": ["Construction management company", "Equipment lessor"],
+    "id": "F26D835A-4492-3AE7-754B-43C04912D993",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Pellentesque Inc.",
+    "city": "Lambusart",
+    "specialities": ["Equipment lessor"],
+    "id": "8DF964B1-793D-6822-DCB8-97C97A654D6D",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Viverra Donec Tempus Associates",
+    "city": "Balen",
+    "specialities": ["Engineering firm", "Restoration contractor"],
+    "id": "B635B51D-5F47-E96E-5B8E-FCB5E868E77E",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Elit Sed Consulting",
+    "city": "Anchorage",
+    "specialities": ["Engineering firm", "Equipment lessor"],
+    "id": "18A024B8-6BC4-7AE6-BC9B-C4C8BE5079B3",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Dolor Sit Corp.",
+    "city": "San José de Alajuela",
+    "specialities": ["Renovation contractors", "Real estate developer"],
+    "id": "5C1B5260-2ADC-7948-ED97-B3D5DE64A610",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Amet LLC",
+    "city": "Medellín",
+    "specialities": [
+      "Material supplier",
+      "Subcontractor",
+      "General contractor"
+    ],
+    "id": "BF1B2418-CB25-423D-23CC-E2426D3627F7",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Pellentesque Industries",
+    "city": "Hebei",
+    "specialities": [
+      "Real estate developer",
+      "Renovation contractors",
+      "Construction management company"
+    ],
+    "id": "B6842392-6DF2-9B91-2F1E-A96B8F3C4B6E",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vitae Mauris LLP",
+    "city": "Ørsta",
+    "specialities": ["Subcontractor", "Equipment lessor"],
+    "id": "755EF2D0-0C86-2925-BD77-720611D16E58",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vitae Risus Duis Corporation",
+    "city": "Roodepoort",
+    "specialities": ["Material supplier", "General contractor"],
+    "id": "59AAE24B-D598-5177-27DA-7034414E848B",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Posuere Enim Ltd",
+    "city": "Jiutepec",
+    "specialities": ["Engineering firm", "Material supplier"],
+    "id": "808C13A1-5BAB-8949-DB85-8592392D895C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Auctor Inc.",
+    "city": "Bauchi",
+    "specialities": ["Equipment lessor"],
+    "id": "D3467F9E-81FB-3A74-1A3C-E4BBB73032FD",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nulla Cras Limited",
+    "city": "Joliet",
+    "specialities": ["Architecture firm", "Subcontractor"],
+    "id": "D667BDDD-3EDE-1C88-2828-D74A508CE47E",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ac Tellus Associates",
+    "city": "Dongducheon",
+    "specialities": ["Construction management company", "Engineering firm"],
+    "id": "B708B342-582A-8ABB-4AB3-615B7A84275C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sagittis Placerat Ltd",
+    "city": "Yên Bái",
+    "specialities": ["Equipment lessor", "General contractor"],
+    "id": "312B810C-D37C-364D-89F6-86F87ADCE41E",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Eget Inc.",
+    "city": "Bedford",
+    "specialities": ["Real estate developer", "Subcontractor"],
+    "id": "E4B1E6D4-49DE-ACB3-B3D2-47C99EA1AE6C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "At Limited",
+    "city": "Voronezh",
+    "specialities": ["Restoration contractor"],
+    "id": "F95784CC-D5D5-2314-AA83-80F34C54E076",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nullam Foundation",
+    "city": "Beijing",
+    "specialities": [
+      "Restoration contractor",
+      "Real estate developer",
+      "Equipment lessor"
+    ],
+    "id": "A3278CEB-78D9-83CA-4E6B-E433AD6BCE57",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nullam LLP",
+    "city": "Boston",
+    "specialities": ["Restoration contractor", "Real estate developer"],
+    "id": "9B8A2414-48C6-A5C3-34B9-B6419FB28A65",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Dictum Eu Eleifend LLC",
+    "city": "Gilgit",
+    "specialities": [
+      "Construction management company",
+      "Restoration contractor"
+    ],
+    "id": "18457D0C-8AEF-5DA5-2EBA-97991A59BE4C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sit Amet LLP",
+    "city": "Schiltigheim",
+    "specialities": ["General contractor", "Engineering firm"],
+    "id": "97549801-3851-ACF5-9B17-C622EA796F41",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nisl Elementum Purus Industries",
+    "city": "Lörrach",
+    "specialities": ["Equipment lessor", "Material supplier"],
+    "id": "968971D5-0CC8-61E4-A529-061AD769B171",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sem Egestas LLP",
+    "city": "Hattian Bala",
+    "specialities": ["General contractor", "Restoration contractor"],
+    "id": "0E0958E3-5B13-21C4-FE52-515D48255137",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Elit Pharetra Corporation",
+    "city": "Makurdi",
+    "specialities": ["Renovation contractors", "Architecture firm"],
+    "id": "C55291D1-2877-4833-519B-E01D10E207BC",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "A LLC",
+    "city": "Alta",
+    "specialities": ["Real estate developer", "Architecture firm"],
+    "id": "D1F93E76-456A-9A5A-4C5E-3D768924CD4B",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Elit Corp.",
+    "city": "Guangxi",
+    "specialities": [
+      "Subcontractor",
+      "General contractor",
+      "Renovation contractors"
+    ],
+    "id": "2F0C6028-FA2C-BB7B-B8BF-B4C8CD35B685",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sed Leo Cras Limited",
+    "city": "Tây Ninh",
+    "specialities": ["General contractor"],
+    "id": "E7559759-7E7C-C2BA-6669-F4C5AB3D3F99",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Mollis Vitae Posuere Ltd",
+    "city": "South Jakarta",
+    "specialities": ["Equipment lessor", "Subcontractor"],
+    "id": "2B9BFDC3-5C17-52B2-8E59-B385BD38624C",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Malesuada Integer Institute",
+    "city": "Canela",
+    "specialities": ["Restoration contractor", "Material supplier"],
+    "id": "B55EA871-9B89-6124-10A8-F6C15A3D9CBA",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Tortor At Inc.",
+    "city": "Jilin",
+    "specialities": [
+      "Equipment lessor",
+      "Real estate developer",
+      "General contractor"
+    ],
+    "id": "3BA67FCD-CFDD-1AB6-4938-E0AE1492454F",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ipsum Nunc Id Limited",
+    "city": "Anhui",
+    "specialities": [
+      "Construction management company",
+      "Renovation contractors"
+    ],
+    "id": "C9A1E528-B1CE-8ED2-4E76-661641E8A83F",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Adipiscing Elit Aliquam Industries",
+    "city": "Odda",
+    "specialities": ["Renovation contractors", "Real estate developer"],
+    "id": "1926E5AC-40CE-E51A-4257-0B57A75BA6EC",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nisl Sem Consequat LLP",
+    "city": "Haveli",
+    "specialities": ["General contractor"],
+    "id": "1A2DC26E-14FF-9D0E-5ABB-67951EAE73A6",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Duis Associates",
+    "city": "Cambridge Bay",
+    "specialities": ["Construction management company"],
+    "id": "822451E0-C457-21F6-1E5D-81ABD5B1E674",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Lectus PC",
+    "city": "Trujillo",
+    "specialities": [
+      "Architecture firm",
+      "Material supplier",
+      "Real estate developer"
+    ],
+    "id": "A2EC2CF7-B698-E311-C8E1-47CC648C853B",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nostra Per Institute",
+    "city": "Tullibody",
+    "specialities": ["Architecture firm"],
+    "id": "5BAD3CC1-88EC-C237-EC36-CED576D5E2A7",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Egestas Aliquam Nec PC",
+    "city": "Friedberg",
+    "specialities": [
+      "Renovation contractors",
+      "Real estate developer",
+      "Construction management company"
+    ],
+    "id": "DE26A4C9-3C1E-841E-DFC2-339A7BCFD535",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Habitant Industries",
+    "city": "Nizhny",
+    "specialities": [
+      "Architecture firm",
+      "General contractor",
+      "Restoration contractor"
+    ],
+    "id": "506DCB84-D661-4662-11BA-48CB28FC9558",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Ipsum Industries",
+    "city": "Sembawang",
+    "specialities": ["General contractor"],
+    "id": "9E3244B0-DE55-5C50-3B9A-5C66CE20C4A0",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Vivamus Nibh PC",
+    "city": "Iquitos",
+    "specialities": ["Subcontractor"],
+    "id": "72126BDC-D6CC-B18F-9688-63A3443E19F3",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Magna Sed Dui Foundation",
+    "city": "Kraków",
+    "specialities": ["Subcontractor", "Material supplier"],
+    "id": "40317077-9248-86B2-2D35-2AD3555A1357",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nunc Ullamcorper LLP",
+    "city": "Parepare",
+    "specialities": ["Restoration contractor", "Material supplier"],
+    "id": "A7BF988E-A41B-9C32-E94E-5DBA3313C387",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Sit Amet Dapibus Inc.",
+    "city": "Worcester",
+    "specialities": ["Architecture firm"],
+    "id": "2F9706D2-1B1C-C758-2415-36BD9BBBB479",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Consectetuer Euismod Foundation",
+    "city": "Liaoning",
+    "specialities": ["Subcontractor"],
+    "id": "89C57C60-C6BC-382A-0B28-88C1A19385B1",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Luctus Curabitur Industries",
+    "city": "Bayeux",
+    "specialities": [
+      "Subcontractor",
+      "Construction management company",
+      "General contractor"
+    ],
+    "id": "0B3D3EBE-5B2B-CC7C-C79C-E54578036CC6",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Nam Nulla Foundation",
+    "city": "Virton",
+    "specialities": ["Architecture firm", "Material supplier"],
+    "id": "15E312B4-8D66-5836-D415-FC5CB6B418EC",
+    "logo": "http://placekitten.com/50/50"
+  },
+  {
+    "name": "Id Blandit At Corporation",
+    "city": "Darıca",
+    "specialities": ["Real estate developer"],
+    "id": "87218169-E8C3-9BE2-11EC-ABB73B1C594D",
+    "logo": "http://placekitten.com/50/50"
+  }
+]
